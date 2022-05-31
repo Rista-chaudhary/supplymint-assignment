@@ -1,0 +1,9 @@
+.hero-section__img-container > img{
+    position: absolute;
+}
+@media (max-width: 500px) {
+    
+    .hero-section__img-container > img{
+        position: static;
+    }
+}

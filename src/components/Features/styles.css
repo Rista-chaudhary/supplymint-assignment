@@ -1,0 +1,10 @@
+.feature-item__container{
+    border-radius: 20px;
+    box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
+    transition: all 1s;
+    min-height: 323px;
+}
+
+.feature-item__container:hover{
+    box-shadow: 0 7px 10px 5px rgba(102, 107, 246, 0.367);
+}

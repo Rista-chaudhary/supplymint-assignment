@@ -1,0 +1,8 @@
+.navbar__mweb-overlay{
+    transform: translateX(100%);
+    transition: transform .5s;
+}
+
+.navbar__mweb-overlay.show{
+    transform: translateX(0%);
+}
